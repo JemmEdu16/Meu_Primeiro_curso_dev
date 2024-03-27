@@ -11,39 +11,35 @@ header{
     
 }
 
-
-
 header div a {
     color:white;
-    font-size:40px;
+    font-size:35px;
     line-height: 30px;
     margin: 18px;
     text-decoration:none;
     font-family:"VT323", monospace;
-    text-align:left;
+    text-align:center;
 }
 
 header div h1 {
     color:white;
     font-size:50px;
-    line-height: 50px;
-    margin: 20px;
+    line-height: 30px;
+    margin: 50px;
     text-decoration:none;
     font-family:"VT323", monospace;
-    text-align: center;
+    text-align:center;
 }
 
 header div h2 {
     color:white;
-    font-size:50px;
+    font-size:45px;
     line-height: 50px;
     margin: 20px;
     text-decoration:none;
     font-family:"VT323", monospace;
-    text-align: center;
+    text-align:center;
 }
-
-
 
 header div a:hover {
     color:rgb(0, 255, 38);
