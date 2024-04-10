@@ -2,6 +2,9 @@
 
 body{
     background-color: rgb(31, 26, 27);
+    background-image: ("https://i.pinimg.com/originals/13/52/13/13521329f22c98a6abbfc5f13826062c.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 header{
